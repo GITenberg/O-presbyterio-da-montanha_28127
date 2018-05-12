@@ -1,0 +1,30 @@
+_repo: O-presbyterio-da-montanha_28127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castilho, Antonio Feliciano de
+    aliases:
+    - Castilho, António Feliciano de
+    - De Castilho, Antonio Feliciano
+    birthdate: 1800
+    deathdate: 1875
+    gutenberg_agent_id: '8440'
+    url: http://www.gutenberg.org/2009/agents/8440
+    wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Feliciano_de_Castilho
+description: ''
+gutenberg_issued: '2009-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28127'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- 19th century'
+title: O presbyterio da montanha
+url: http://www.gutenberg.org/ebooks/28127
