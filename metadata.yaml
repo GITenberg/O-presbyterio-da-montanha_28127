@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8440
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Feliciano_de_Castilho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28127#O-presbyterio-da-montanha
 gutenberg_issued: '2009-02-19'
 gutenberg_type: Text
 identifiers:
